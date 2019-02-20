@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFirstApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Daria"
+    }
+  }
+}
